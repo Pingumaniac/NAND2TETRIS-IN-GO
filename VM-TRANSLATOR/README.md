@@ -45,7 +45,3 @@ go run VMTranslator.go ./vm_files_ch8/NestedCall
 go run VMTranslator.go ./vm_files_ch8/SimpleFunction
 go run VMTranslator.go ./vm_files_ch8/StaticsTest
 ```
-## Bug tracking
-
-* All users can view and report a bug in "GitHub Issues" of our repository. 
-* Here is the URL for viewing and reporting a list of bugs: https://github.com/Pingumaniac/VM-Translator-IN-GO/issues
