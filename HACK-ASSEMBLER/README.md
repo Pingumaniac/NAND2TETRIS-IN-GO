@@ -5,11 +5,6 @@ The Elements of Computing Systems: Building a Modern Computer from First Princip
 
 The aim of this project is to translate a program written in Hack assembly language into an executable machine code format.
 
-## About the author
-
-Name: Youngjae Moon
-* Bachelor of Science in Computer Science, and Applied Mathematics and Statistics at Stony Brook University (SUNY Korea).
-
 ## Instructions on checking out the latest stable version of this assembler
 
 #### Method 1:
