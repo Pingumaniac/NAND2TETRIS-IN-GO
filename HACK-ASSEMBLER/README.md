@@ -1,4 +1,4 @@
-# HACK-ASSEMBLER-IN-GO
+# HACK-ASSEMBLER
 
 ## Summary
 The Elements of Computing Systems: Building a Modern Computer from First Principles (nand2tetris) Chapter 6 Project completed using Go (1.18.4).
