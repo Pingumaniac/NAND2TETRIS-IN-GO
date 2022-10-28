@@ -1,14 +1,9 @@
-# JACK-COMPILER-IN-GO
+# JACK-COMPILER
 
 ## Summary
 The Elements of Computing Systems: Building a Modern Computer from First Principles (nand2tetris) Chapter 11 Project completed using Go (1.18.4).
 
 The aim of this project is to build a full-scale front-end compiler that compiles a Jack program into an executable VM code.
-
-## About the author
-
-Name: Youngjae Moon
-* Bachelor of Science in Computer Science, and Applied Mathematics and Statistics at Stony Brook University (SUNY Korea).
 
 ## Instructions on checking out the latest stable version of this assembler
 
