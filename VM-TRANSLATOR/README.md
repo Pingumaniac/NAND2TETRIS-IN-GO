@@ -1,14 +1,9 @@
-# VM-TRANSLATOR-IN-GO
+# VM-TRANSLATOR
 
 ## Summary
 The Elements of Computing Systems: Building a Modern Computer from First Principles (nand2tetris) Chapter 7-8 Project completed using Go (1.18.4).
 
 The aim of this project is to translate a program written in intermediate code which is designed to run on a Virtual Machine (VM) into Hack assembly language.
-
-## About the author
-
-Name: Youngjae Moon
-* Bachelor of Science in Computer Science, and Applied Mathematics and Statistics at Stony Brook University (SUNY Korea).
 
 ## Instructions on checking out the latest stable version of this assembler
 
