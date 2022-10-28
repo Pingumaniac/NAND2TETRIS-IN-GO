@@ -39,8 +39,3 @@ go run JackCompiler.go ./Pong
 go run JackCompiler.go ./Seven
 go run JackCompiler.go ./Square
 ```
-
-## Bug tracking
-
-* All users can view and report a bug in "GitHub Issues" of our repository. 
-* Here is the URL for viewing and reporting a list of bugs: https://github.com/Pingumaniac/JACK-COMPILER-GO/issues
