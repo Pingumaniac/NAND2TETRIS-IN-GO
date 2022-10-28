@@ -1,14 +1,9 @@
-# JACK-TO-XML-IN-GO
+# JACK-TO-XML
 
 ## Summary
 The Elements of Computing Systems: Building a Modern Computer from First Principles (nand2tetris) Chapter 10 Project completed using Go (1.18.4).
 
 The aim of this project is to build a syntax analyzer that parses Jack programs according to the Jack grammar into XML.
-
-## About the author
-
-Name: Youngjae Moon
-* Bachelor of Science in Computer Science, and Applied Mathematics and Statistics at Stony Brook University (SUNY Korea).
 
 ## Instructions on checking out the latest stable version of this assembler
 
