@@ -36,8 +36,3 @@ go run JackAnalyzer.go ./ArrayTest
 go run JackAnalyzer.go ./ExpressionLessSquare
 go run JackAnalyzer.go ./Square
 ```
-
-## Bug tracking
-
-* All users can view and report a bug in "GitHub Issues" of our repository. 
-* Here is the URL for viewing and reporting a list of bugs: https://github.com/Pingumaniac/JACK-TO-XML-IN-GO/issues
